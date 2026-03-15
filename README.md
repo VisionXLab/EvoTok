@@ -7,7 +7,7 @@
 
 ## Highlights
 
-🔗 **Unified & Consistent**: Reconciles the "granularity gap" by maintaining task-decoupled yet consistent representations within a shared space.
+🔗 **Unified & Consistent**: Reconciles the "granularity gap" by maintaining task-decoupled yet consistent representations within a shared space via residual evolution.
 
 📊 **Data Efficient**: Trained entirely on fully open-source data (w/o any re-captioning or distillation). Despite using only 13M images, EvoTok achieves 0.43 rFID on ImageNet-1K (256×256).
 
