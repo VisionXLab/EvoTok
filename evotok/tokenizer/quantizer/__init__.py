@@ -1,0 +1,1 @@
+from .shared_rq_quantizer import SharedResidualQuantizer

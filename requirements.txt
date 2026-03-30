@@ -1,0 +1,14 @@
+timm
+torch==2.6.0
+torchvision==0.21.0
+accelerate
+transformers==4.51.3
+einops
+protobuf==3.20.3
+sentencepiece
+wandb
+scipy
+easydict
+tensorboard
+scikit-image
+deepspeed
