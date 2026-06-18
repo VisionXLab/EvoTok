@@ -1,4 +1,4 @@
-# EvoTok: A Unified Image Tokenizer via Residual Latent Evolution for Visual Understanding and Generation
+# EvoTok: A Unified Image Tokenizer via Residual Latent Evolution for Visual Understanding and Generation (ECCV2026)
 
 [![arXiv](https://img.shields.io/badge/arXiv-2603.12108-b31b1b.svg)](https://arxiv.org/abs/2603.12108)
 
